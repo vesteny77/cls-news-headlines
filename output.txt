@@ -1,0 +1,17 @@
+The accuracy for Gini coefficient criterion with max_depth = 8: 73.06%
+The accuracy for information gain criterion with max_depth = 8: 71.84%
+The accuracy for Gini coefficient criterion with max_depth = 13: 76.73%
+The accuracy for information gain criterion with max_depth = 13: 74.29%
+The accuracy for Gini coefficient criterion with max_depth = 21: 77.96%
+The accuracy for information gain criterion with max_depth = 21: 73.47%
+The accuracy for Gini coefficient criterion with max_depth = 34: 80.0%
+The accuracy for information gain criterion with max_depth = 34: 79.18%
+The accuracy for Gini coefficient criterion with max_depth = 55: 80.0%
+The accuracy for information gain criterion with max_depth = 55: 75.1%
+
+Computing information gain for the topmost split...
+The information gain for attribute "the" is 0.051
+Computing information gain for several other keywords...
+The information gain for attribute "donald" is 0.0499
+The information gain for attribute "trumps" is 0.0426
+The information gain for attribute "hillary" is 0.0352
