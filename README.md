@@ -43,4 +43,4 @@ The information gain for attribute "hillary" is 0.0352
 
 ## Decision Tree Output
 
-![Decision Tree](/Users/steveny/Desktop/PEY/cls-news-headlines/decision_tree.png)
+![Decision Tree](decision_tree.png)
